@@ -1,0 +1,10 @@
+LivingRoomTemp	TURN_ON
+LivingRoomTemp	TEMPERATURE 25
+LivingRoomTemp	TEMPERATURE 101
+LivingRoomTemp	TEMPERATURE 20
+LivingRoomTemp	TURN_OFF
+LivingRoomTemp	TURN_ON
+LivingRoomTemp	TEMPERATURE 23
+LivingRoomTemp	TEMPERATURE 30
+LivingRoomTemp	TEMPERATURE 24
+LivingRoomTemp	EXTENT 10

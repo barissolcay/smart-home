@@ -1,0 +1,4 @@
+SmartLight	BedroomLight	20.0
+SmartThermostat	LivingRoomTemp	20.0
+SmartSpeaker	MainSpeaker	30.0
+SmartCamera	FrontDoor	50.0
